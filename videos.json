@@ -1,5 +1,4 @@
-{
-    "videos": [
+ [
         {
             "src": "https://wallpappers.s3.us-west-1.amazonaws.com/simbaHD.mp4",
             "title": "Simba HD",
@@ -41,4 +40,3 @@
             ]
         }
     ]
-}
