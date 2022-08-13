@@ -1,0 +1,44 @@
+{
+    "videos": [
+        {
+            "src": "https://wallpappers.s3.us-west-1.amazonaws.com/simbaHD.mp4",
+            "title": "Simba HD",
+            "tags": [
+                "simba",
+                "simbaHD",
+                "couple",
+                "animation",
+                "movie",
+                "2D",
+                "Hug"
+            ]
+        },
+        {
+            "src": "https://wallpappers.s3.us-west-1.amazonaws.com/starco.mp4",
+            "title": "Starco Kiss",
+            "tags": [
+                "starco",
+                "kiss",
+                "animation",
+                "show",
+                "2D",
+                "Star vs. the Forces of Evil",
+                "couple"
+            ]
+        },
+        {
+            "src": "https://wallpappers.s3.us-west-1.amazonaws.com/ladyandthetramp.mp4",
+            "title": "Lady and the Tramp",
+            "tags": [
+                "lady",
+                "tramp",
+                "animation",
+                "show",
+                "2D",
+                "couple",
+                "movie",
+                "kiss"
+            ]
+        }
+    ]
+}
