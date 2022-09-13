@@ -9,7 +9,8 @@
             "animation",
             "movie",
             "2D",
-            "Hug"
+            "hug",
+            "all"
         ]
     },
     {
@@ -22,7 +23,8 @@
             "show",
             "2D",
             "Star vs. the Forces of Evil",
-            "couple"
+            "couple",
+            "all"
         ]
     },
     {
@@ -36,7 +38,8 @@
             "2D",
             "couple",
             "movie",
-            "kiss"
+            "kiss",
+            "all"
         ]
     }
 ]
